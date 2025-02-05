@@ -76,19 +76,16 @@ You can deploy this project using:Github
 - Twitter: [coming soon]
 - LinkedIn: [coming soon]
 
-👤 **Author2**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+<p align="right">(<a href="#readme-top">back to top</a>)
 ## 🔭 Future Features <a name="future-features"></a>
-
-- [ ] **[More complex coding]**
+¥00p[;'\/8520/
+i]k,- [ ] **[More complex coding]**
 - [ ] **[More social media platforms]**
 - [ ] **[More on assessibility,responsiveness and usage]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-##  Cotributing a nam="contributing"></a>
+##  Cotributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
