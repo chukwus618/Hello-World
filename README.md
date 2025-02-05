@@ -1,76 +1,119 @@
-MY PORTFOLIO SETUP
-📗 Table of Contents
-📖 About the Project
-🛠 Built With
-Tech Stack
-Key Features
-🚀 Live Demo
-💻 Getting Started
-Prerequisites
-Setup
-Install
-Usage
-Run tests
-Deployment
-👥 Authors
-🔭 Future Features
-🤝 Contributing
-⭐️ Show your support
-🙏 Acknowledgements
-❓ FAQ (OPTIONAL)
-📝 License
+<a name="readme-top"></a>
+<div align="center">
+  <br/>
 
-📖 [Hello Mindbyte]
-[Hello Mindbyte] is a prooject that showcases the github workflows/actions as basic requirement for improved coding experience.
+  <h3><b>MY PORTFOLIO SETUP</b></h3>
 
-🛠 Built With
-Tech Stack
-Client
+</div>
 
-Key Features
-[Portfolio Setup]
-[Github workflow practice]
-[Html,css linter setup]
-(back to top)
+<!-- TABLE OF CONTENTS -->
 
-💻 Getting Started
-Setup
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Setup](#setup)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
+
+# 📖 [Hello Mindbyte] <a name="about-project"></a>
+
+**[Hello Mindbyte]** is a project that showcases the github workflows/actions as a basic requirement for improved coding experience.
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">html,css</a></li>
+  </ul>
+</details>
+
+### Key Features <a name="key-features"></a>
+
+- **[Portfolio setup]**
+- **[Github workflow practice]**
+- **[Html,css linter setup]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+### Setup
+
 Clone this repository to your desired folder:git@github.com:chukwus618/Hello-World.git
 
-Deployment
+### Deployment
+
 You can deploy this project using:Github
 
-(back to top)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-👥 Authors
-👤 Author1
+## 👥 Authors <a name="authors"></a>
+👤 **Author1**
 
-GitHub: chukwus618
-Twitter: coming soon
-LinkedIn: coming soon
-(back to top)
+- GitHub: [chukwus618](https://github.com/chukwus618)
+- Twitter: [coming soon]
+- LinkedIn: [coming soon]
 
-🔭 Future Features
- [More complex coding]
- [More social media platforms]
- [More on assessibility,responsiveness and usage]
-(back to top)
+👤 **Author2**
 
-⭐️ Show your support
-If you like this project feel free to support with more ideas.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-(back to top)
+## 🔭 Future Features <a name="future-features"></a>
 
-🙏 Acknowledgments
+- [ ] **[More complex coding]**
+- [ ] **[More social media platforms]**
+- [ ] **[More on assessibility,responsiveness and usage]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+##  Cotributing a nam="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project feel free to backup project with relevant ideas.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
 I would like to thank the CEO of Mindbyte Technologies.
 
-(back to top)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-❓ FAQ (OPTIONAL)
-[Why no collaborators]
+## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-[Not necessary for this practice project]
-[How can I benefit from this project]
+- **[Why no collaborators?]**
 
-[Learning to perfect github workflows]
-(back to top)
+  - [Not necessary for this practice project.]
+
+- **[How can I benefit from the project?]**
+
+  - [Learning to perfect github worflows.]
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
