@@ -77,9 +77,10 @@ You can deploy this project using:Github
 - LinkedIn: [coming soon]
 
 <p align="right">(<a href="#readme-top">back to top</a>)
+
 ## 🔭 Future Features <a name="future-features"></a>
-¥00p[;'\/8520/
-i]k,- [ ] **[More complex coding]**
+
+- [ ] **[More complex coding]**
 - [ ] **[More social media platforms]**
 - [ ] **[More on assessibility,responsiveness and usage]**
 
