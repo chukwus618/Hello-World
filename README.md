@@ -1,56 +1,76 @@
-MY PORTFOLIO
+MY PORTFOLIO SETUP
 📗 Table of Contents
 📖 About the Project
 🛠 Built With
 Tech Stack
 Key Features
-👥 Author
+🚀 Live Demo
+💻 Getting Started
+Prerequisites
+Setup
+Install
+Usage
+Run tests
+Deployment
+👥 Authors
 🔭 Future Features
+🤝 Contributing
+⭐️ Show your support
 🙏 Acknowledgements
-📖 [Hello-Mindbyte]
-[Hello-Mindbyte] is a project that showcases git workflow/actions and creting pull requests.
+❓ FAQ (OPTIONAL)
+📝 License
+
+📖 [Hello Mindbyte]
+[Hello Mindbyte] is a prooject that showcases the github workflows/actions as basic requirement for improved coding experience.
 
 🛠 Built With
 Tech Stack
-Describe the tech stack and include only the relevant sections that apply to your project.
+Client
 
-Server
 Key Features
-Describe between 1-3 key features of the application.
+[Portfolio Setup]
+[Github workflow practice]
+[Html,css linter setup]
+(back to top)
 
-[Portfolio project]
-[Practice project]
-[Project Information]
-👥 Author
-Mention all of the collaborators of this project.
+💻 Getting Started
+Setup
+Clone this repository to your desired folder:git@github.com:chukwus618/Hello-World.git
 
+Deployment
+You can deploy this project using:Github
+
+(back to top)
+
+👥 Authors
 👤 Author1
 
-GitHub: my handle
-Twitter: [coming soon]
-LinkedIn: [coming soon]
-🔭 Future Features
-Describe 1 - 3 features you will add to the project.
+GitHub: chukwus618
+Twitter: coming soon
+LinkedIn: coming soon
+(back to top)
 
- [More social media handles]
+🔭 Future Features
  [More complex coding]
- [Project refining]
+ [More social media platforms]
+ [More on assessibility,responsiveness and usage]
+(back to top)
+
+⭐️ Show your support
+If you like this project feel free to support with more ideas.
+
 (back to top)
 
 🙏 Acknowledgments
-Give credit to everyone who inspired your codebase.
-
-I would like to thank Mr. Oluwatoyin Olaoye
+I would like to thank the CEO of Mindbyte Technologies.
 
 (back to top)
 
 ❓ FAQ (OPTIONAL)
-Add at least 2 questions new developers would ask when they decide to use your project.
+[Why no collaborators]
 
-[Reason for Project]
+[Not necessary for this practice project]
+[How can I benefit from this project]
 
-[To perfect github actions]
-[No collaborators]
-
-[Lone practice project]
+[Learning to perfect github workflows]
 (back to top)
