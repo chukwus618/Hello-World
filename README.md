@@ -112,6 +112,6 @@ I would like to thank the CEO of Mindbyte Technologies.
 
 - **[How can I benefit from the project?]**
 
-  - [Learning to perfect github worflows.]
+  - [Learning to perfect github workflows.]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
